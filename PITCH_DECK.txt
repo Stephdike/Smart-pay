@@ -1,0 +1,41 @@
+SmartPay - Pitch Deck (copy each slide into Google Slides or Canva)
+
+Slide 1 - Title
+SmartPay
+A simple, secure peer-to-peer payment web app
+Your Name
+
+Slide 2 - Problem
+Many people need fast, low-friction ways to send money to friends and family.
+Existing solutions can be complex or expensive for small transfers.
+
+Slide 3 - Solution
+SmartPay: lightweight web wallet for P2P transfers.
+Key features: sign up, wallet top-up (mock), send money by email, transaction history.
+
+Slide 4 - Features
+- JWT-based authentication
+- Digital wallet with balance
+- Peer-to-peer transfers
+- Transaction history and dashboard
+- Simple UX, ready for payment gateway integration
+
+Slide 5 - Tech Stack
+- Frontend: React
+- Backend: Node.js + Express
+- Database: MongoDB
+- Auth: JWT
+- Deployment: Heroku / Render / Vercel
+
+Slide 6 - Demo Screenshots
+(Insert screenshots: register, login, dashboard, transactions)
+
+Slide 7 - Future Work
+- Real payment gateway (Paystack/Stripe)
+- Mobile app (React Native / Flutter)
+- KYC and transaction limits
+- Improved security and audit logging
+
+Slide 8 - Closing
+Thank you!
+Contact: your-email@example.com
